@@ -1,0 +1,22 @@
+h1 {
+    color: #F1BB19;
+}
+
+.img {
+    background-image: url("fond1intro.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    min-height: 300px;
+}
+
+ul {
+    display: inline-flex;
+    justify-content: space-around;
+    list-style-type: none;
+}
+
+.envoyer {
+    background-color: #F1BB19;
+    padding: 10px 20px;
+    border-radius: 10%;
+}
